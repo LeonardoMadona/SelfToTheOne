@@ -1,7 +1,7 @@
 A game created for the Next Level Game Jam 2nd edition, in Aug/2024.
 
 
-The project contains assets from third part assets, which are all CC0. Those are:
+The project contains assets from third part assets. Those are:
 
 textures taken from ambientCG
 sounds taken from freesound.org
