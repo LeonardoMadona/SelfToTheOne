@@ -1,5 +1,8 @@
 A game created for the Next Level Game Jam 2nd edition, in Aug/2024.
 
+link on itch.io: https://salsicha007.itch.io/selftotheone
+
+
 
 The project contains assets from third part assets. Those are:
 
